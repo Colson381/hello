@@ -1,3 +1,12 @@
+/*
+*Christian Olson
+*
+*CSCE155
+*
+*2024-09-26
+*/
+
+
 #include<stdlib.h>
 #include<stdio.h>
 
